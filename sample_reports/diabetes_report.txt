@@ -1,0 +1,51 @@
+PATIENT: Carlos Rodriguez
+DOB: 08/12/1975
+DATE: 12/13/2023
+MRN: 11223344
+
+DIABETES MANAGEMENT PANEL
+
+CLINICAL HISTORY: 48-year-old male with type 2 diabetes mellitus diagnosed 5 years ago. Recent weight gain and poor glycemic control.
+
+LABORATORY RESULTS:
+
+GLYCEMIC CONTROL:
+- Fasting Glucose: 165 mg/dL (Normal: 70-100) - ELEVATED
+- Random Glucose: 220 mg/dL (Normal: <140) - ELEVATED
+- HbA1c: 9.2% (Normal: <5.7%, Target for diabetics: <7.0%) - POORLY CONTROLLED
+- Fructosamine: 350 μmol/L (Normal: 200-285) - ELEVATED
+
+DIABETIC COMPLICATIONS SCREENING:
+
+KIDNEY FUNCTION:
+- Microalbumin: 120 mg/g creatinine (Normal: <30) - ELEVATED
+- Creatinine: 1.1 mg/dL (Normal: 0.7-1.3) - NORMAL
+- eGFR: 78 mL/min/1.73m² (Normal: >60) - NORMAL
+
+LIPID PANEL:
+- Total Cholesterol: 245 mg/dL (Normal: <200) - ELEVATED
+- LDL Cholesterol: 165 mg/dL (Normal: <100) - ELEVATED
+- HDL Cholesterol: 32 mg/dL (Normal: >40) - LOW
+- Triglycerides: 240 mg/dL (Normal: <150) - ELEVATED
+
+DIABETIC RETINOPATHY SCREENING:
+- Dilated fundus examination: Mild non-proliferative diabetic retinopathy
+- No macular edema
+- Recommend annual ophthalmology follow-up
+
+DIABETIC NEUROPATHY SCREENING:
+- Monofilament testing: Decreased sensation in both feet
+- Vibration testing: Mildly decreased in toes
+- Ankle reflexes: Present but diminished
+
+IMPRESSION:
+1. Poorly controlled type 2 diabetes mellitus (HbA1c: 9.2%)
+2. Early diabetic nephropathy (elevated microalbumin)
+3. Mild diabetic retinopathy
+4. Mild diabetic peripheral neuropathy
+5. Dyslipidemia requiring statin therapy
+6. Recommend diabetes education and medication adjustment
+7. Consider endocrinology consultation for advanced diabetes management
+
+Dr. Jennifer Martinez, MD
+Internal Medicine/Diabetes Care

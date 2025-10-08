@@ -1,0 +1,70 @@
+PATIENT: Lisa Anderson
+DOB: 04/12/1988
+DATE: 12/02/2023
+MRN: 55667788
+
+ALLERGY SKIN TESTING
+
+CLINICAL HISTORY: 35-year-old female with seasonal allergies, chronic rhinitis, and suspected food allergies. Symptoms include sneezing, nasal congestion, and occasional hives.
+
+TECHNIQUE: Skin prick testing performed on the forearm with positive and negative controls.
+
+ENVIRONMENTAL ALLERGENS:
+
+TREE POLLENS:
+- Oak: 8 mm wheal (Positive - 3+)
+- Birch: 6 mm wheal (Positive - 2+)
+- Maple: 4 mm wheal (Positive - 1+)
+- Pine: Negative
+
+GRASS POLLENS:
+- Timothy: 7 mm wheal (Positive - 3+)
+- Bermuda: 5 mm wheal (Positive - 2+)
+- Rye: 3 mm wheal (Positive - 1+)
+
+WEED POLLENS:
+- Ragweed: 9 mm wheal (Positive - 4+)
+- Sagebrush: 6 mm wheal (Positive - 2+)
+- Lamb's quarters: Negative
+
+MOLD SPORES:
+- Alternaria: 4 mm wheal (Positive - 1+)
+- Cladosporium: Negative
+- Aspergillus: Negative
+
+INDOOR ALLERGENS:
+- Dust mite (D. pteronyssinus): 8 mm wheal (Positive - 3+)
+- Dust mite (D. farinae): 7 mm wheal (Positive - 3+)
+- Cat dander: 6 mm wheal (Positive - 2+)
+- Dog dander: 3 mm wheal (Positive - 1+)
+- Cockroach: Negative
+
+FOOD ALLERGENS:
+- Peanut: 5 mm wheal (Positive - 2+)
+- Tree nuts: 4 mm wheal (Positive - 1+)
+- Shellfish: Negative
+- Milk: Negative
+- Egg: Negative
+- Wheat: Negative
+- Soy: Negative
+
+CONTROLS:
+- Histamine (positive control): 8 mm wheal (Normal response)
+- Saline (negative control): 0 mm wheal (Normal response)
+
+TOTAL IgE:
+- Serum IgE: 450 IU/mL (Normal: <100) - ELEVATED
+
+IMPRESSION:
+1. Multiple environmental allergies including tree, grass, and weed pollens
+2. Strong sensitivity to ragweed and dust mites
+3. Moderate sensitivity to oak, timothy grass, and cat dander
+4. Food allergies to peanuts and tree nuts
+5. Elevated total IgE consistent with atopic disease
+6. Recommend allergen avoidance strategies
+7. Consider immunotherapy for environmental allergies
+8. Carry epinephrine auto-injector for food allergies
+9. Follow-up with allergist for treatment planning
+
+Dr. Jennifer Martinez, MD
+Allergy and Immunology

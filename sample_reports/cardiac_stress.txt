@@ -1,0 +1,58 @@
+PATIENT: Richard Anderson
+DOB: 07/22/1968
+DATE: 12/08/2023
+MRN: 11223344
+
+CARDIAC STRESS TEST (EXERCISE TREADMILL)
+
+CLINICAL HISTORY: 55-year-old male with chest pain and family history of coronary artery disease. Risk factors include hypertension and hyperlipidemia.
+
+TECHNIQUE: Bruce protocol exercise treadmill test with continuous ECG monitoring and blood pressure measurements.
+
+EXERCISE PROTOCOL:
+- Stage 1: 1.7 mph, 10% grade - 3 minutes
+- Stage 2: 2.5 mph, 12% grade - 3 minutes
+- Stage 3: 3.4 mph, 14% grade - 3 minutes
+- Stage 4: 4.2 mph, 16% grade - 3 minutes
+- Total exercise time: 12 minutes
+- Peak heart rate achieved: 165 bpm (95% of age-predicted maximum)
+
+ECG FINDINGS:
+
+RESTING ECG:
+- Normal sinus rhythm
+- Heart rate: 72 bpm
+- No ST-T wave abnormalities
+- No evidence of left ventricular hypertrophy
+
+EXERCISE ECG:
+- No significant ST-segment depression or elevation
+- No arrhythmias during exercise
+- Normal heart rate response to exercise
+- No chest pain during exercise
+
+BLOOD PRESSURE RESPONSE:
+- Resting: 140/90 mmHg
+- Peak exercise: 180/95 mmHg
+- 3-minute recovery: 150/85 mmHg
+- Blood pressure response: Normal
+
+SYMPTOMS:
+- No chest pain or discomfort
+- No shortness of breath
+- No dizziness or syncope
+- Exercise tolerance: Good
+
+IMPRESSION:
+1. Negative exercise stress test
+2. No evidence of exercise-induced myocardial ischemia
+3. Normal heart rate and blood pressure response to exercise
+4. Good exercise tolerance (12 minutes on Bruce protocol)
+5. No significant ECG changes during exercise
+6. Low probability of significant coronary artery disease
+7. Continue current medical therapy for hypertension and hyperlipidemia
+8. Recommend regular exercise program
+9. Follow-up in 1 year or sooner if symptoms develop
+
+Dr. Lisa Thompson, MD
+Cardiology Department

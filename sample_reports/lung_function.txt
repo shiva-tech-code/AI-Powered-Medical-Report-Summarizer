@@ -1,0 +1,55 @@
+PATIENT: William Johnson
+DOB: 11/05/1955
+DATE: 12/09/2023
+MRN: 77889900
+
+PULMONARY FUNCTION TESTS
+
+CLINICAL HISTORY: 68-year-old male with 40-pack-year smoking history. Complains of chronic cough, shortness of breath, and wheezing. Suspected COPD.
+
+TECHNIQUE: Spirometry, lung volumes, and diffusing capacity measurements performed.
+
+SPIROMETRY RESULTS:
+
+PRE-BRONCHODILATOR:
+- FVC: 3.2 L (75% predicted) - MILD REDUCTION
+- FEV1: 1.8 L (52% predicted) - MODERATE REDUCTION
+- FEV1/FVC: 56% (Normal: >70%) - ABNORMAL
+- PEF: 4.2 L/sec (60% predicted) - MODERATE REDUCTION
+
+POST-BRONCHODILATOR:
+- FVC: 3.4 L (80% predicted) - MILD REDUCTION
+- FEV1: 2.0 L (58% predicted) - MODERATE REDUCTION
+- FEV1/FVC: 59% (Normal: >70%) - ABNORMAL
+- Bronchodilator Response: 11% improvement in FEV1
+
+LUNG VOLUMES:
+- TLC: 6.8 L (110% predicted) - MILD INCREASE
+- RV: 3.2 L (150% predicted) - SIGNIFICANT INCREASE
+- FRC: 4.5 L (125% predicted) - MILD INCREASE
+- IC: 2.3 L (65% predicted) - MODERATE REDUCTION
+
+DIFFUSING CAPACITY:
+- DLCO: 12.5 mL/min/mmHg (45% predicted) - MODERATE REDUCTION
+- DLCO/VA: 2.8 mL/min/mmHg/L (55% predicted) - MILD REDUCTION
+
+ARTERIAL BLOOD GAS (Room Air):
+- pH: 7.38 (Normal: 7.35-7.45)
+- pCO2: 45 mmHg (Normal: 35-45) - MILD ELEVATION
+- pO2: 68 mmHg (Normal: 80-100) - MILD HYPOXIA
+- HCO3: 26 mEq/L (Normal: 22-26)
+- O2 Saturation: 92% (Normal: >95%) - MILD HYPOXIA
+
+IMPRESSION:
+1. Moderate COPD (GOLD Stage 2) with airflow obstruction
+2. Mild bronchodilator response (11% improvement in FEV1)
+3. Air trapping with increased residual volume
+4. Moderate reduction in diffusing capacity
+5. Mild hypoxemia and hypercapnia
+6. Recommend smoking cessation counseling
+7. Consider bronchodilator therapy (long-acting beta-agonist and anticholinergic)
+8. Pulmonary rehabilitation program
+9. Annual influenza and pneumococcal vaccinations
+
+Dr. Michael Rodriguez, MD
+Pulmonology Department

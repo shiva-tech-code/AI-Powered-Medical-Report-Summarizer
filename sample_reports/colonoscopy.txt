@@ -1,0 +1,66 @@
+PATIENT: Robert Martinez
+DOB: 05/08/1965
+DATE: 12/06/2023
+MRN: 99887766
+
+COLONOSCOPY
+
+CLINICAL HISTORY: 58-year-old male for routine colorectal cancer screening. Family history of colon cancer in father at age 65.
+
+TECHNIQUE: Colonoscopy performed under conscious sedation. Complete examination to the cecum with biopsy sampling.
+
+FINDINGS:
+
+CECUM:
+- Normal appearing mucosa
+- Ileocecal valve: Normal
+- Appendix orifice: Normal
+
+ASCENDING COLON:
+- Normal appearing mucosa
+- No polyps or masses identified
+
+HEPATIC FLEXURE:
+- Normal appearing mucosa
+
+TRANSVERSE COLON:
+- Normal appearing mucosa
+- No polyps or masses identified
+
+SPLENIC FLEXURE:
+- Normal appearing mucosa
+
+DESCENDING COLON:
+- Normal appearing mucosa
+
+SIGMOID COLON:
+- Normal appearing mucosa
+- No diverticula identified
+
+RECTUM:
+- Normal appearing mucosa
+- No hemorrhoids or masses
+- Anorectal junction: Normal
+
+POLYP FINDINGS:
+- 2 small polyps identified in the sigmoid colon
+- Polyp 1: 0.5 cm sessile polyp, removed by cold snare
+- Polyp 2: 0.3 cm pedunculated polyp, removed by hot snare
+- Both polyps sent for histopathology
+
+BIOPSY RESULTS:
+- Polyp 1: Tubular adenoma with low-grade dysplasia
+- Polyp 2: Hyperplastic polyp
+- Random biopsies: Normal colonic mucosa
+
+IMPRESSION:
+1. Complete colonoscopy to the cecum
+2. Two small polyps removed from sigmoid colon
+3. One tubular adenoma (precancerous) and one hyperplastic polyp (benign)
+4. No evidence of colorectal cancer
+5. Recommend repeat colonoscopy in 5 years
+6. Continue routine colorectal cancer screening
+7. Maintain healthy diet and lifestyle
+
+Dr. Patricia Davis, MD
+Gastroenterology Department

@@ -1,0 +1,54 @@
+PATIENT: Margaret Davis
+DOB: 03/10/1960
+DATE: 12/10/2023
+MRN: 44556677
+
+DEXA BONE DENSITY SCAN
+
+CLINICAL HISTORY: 63-year-old postmenopausal female with family history of osteoporosis. Height: 5'4", Weight: 125 lbs.
+
+TECHNIQUE: Dual-energy X-ray absorptiometry (DEXA) scan of the lumbar spine and bilateral hips.
+
+FINDINGS:
+
+LUMBAR SPINE (L1-L4):
+- BMD: 0.820 g/cm²
+- T-Score: -2.3 (Osteoporosis)
+- Z-Score: -1.8
+- Previous BMD (2 years ago): 0.850 g/cm²
+- Change: -3.5% (significant bone loss)
+
+LEFT HIP:
+- Total Hip BMD: 0.720 g/cm²
+- T-Score: -2.1 (Osteoporosis)
+- Z-Score: -1.5
+- Femoral Neck BMD: 0.650 g/cm²
+- T-Score: -2.4 (Osteoporosis)
+
+RIGHT HIP:
+- Total Hip BMD: 0.715 g/cm²
+- T-Score: -2.2 (Osteoporosis)
+- Z-Score: -1.6
+- Femoral Neck BMD: 0.645 g/cm²
+- T-Score: -2.5 (Osteoporosis)
+
+FOREARM (NON-DOMINANT):
+- BMD: 0.580 g/cm²
+- T-Score: -2.8 (Osteoporosis)
+- Z-Score: -2.1
+
+FRACTURE RISK ASSESSMENT:
+- 10-year probability of major osteoporotic fracture: 18%
+- 10-year probability of hip fracture: 6%
+
+IMPRESSION:
+1. Osteoporosis at the lumbar spine, both hips, and forearm
+2. Significant bone loss since previous scan (3.5% decrease)
+3. High fracture risk requiring treatment
+4. Recommend bisphosphonate therapy (alendronate or zoledronic acid)
+5. Calcium and vitamin D supplementation
+6. Fall prevention counseling
+7. Follow-up DEXA scan in 2 years
+
+Dr. Susan Miller, MD
+Endocrinology/Bone Health

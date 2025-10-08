@@ -1,0 +1,47 @@
+PATIENT: Thomas Brown
+DOB: 12/03/1960
+DATE: 12/15/2023
+MRN: 33445566
+
+RENAL FUNCTION PANEL & URINALYSIS
+
+CLINICAL HISTORY: 63-year-old male with diabetes mellitus type 2 and hypertension. Routine monitoring of kidney function.
+
+LABORATORY RESULTS:
+
+RENAL FUNCTION PANEL:
+- BUN: 35 mg/dL (Normal: 7-20) - ELEVATED
+- Creatinine: 2.1 mg/dL (Normal: 0.7-1.3) - ELEVATED
+- eGFR: 32 mL/min/1.73m² (Normal: >60) - STAGE 3 CHRONIC KIDNEY DISEASE
+- Sodium: 140 mEq/L (Normal: 136-145)
+- Potassium: 4.8 mEq/L (Normal: 3.5-5.0)
+- Chloride: 105 mEq/L (Normal: 98-107)
+- CO2: 22 mEq/L (Normal: 22-28)
+
+URINALYSIS:
+- Color: Yellow
+- Appearance: Clear
+- Specific Gravity: 1.015 (Normal: 1.005-1.030)
+- pH: 6.0 (Normal: 5.0-8.0)
+- Protein: 2+ (Normal: Negative) - ELEVATED
+- Glucose: 3+ (Normal: Negative) - ELEVATED
+- Ketones: Negative
+- Blood: Trace (Normal: Negative)
+- Nitrites: Negative
+- Leukocyte Esterase: Negative
+- Microscopic: 5-10 RBC/hpf, 0-2 WBC/hpf, occasional hyaline casts
+
+URINE MICROALBUMIN:
+- Microalbumin: 180 mg/g creatinine (Normal: <30) - ELEVATED
+- Albumin-to-creatinine ratio: 180 (Normal: <30) - SIGNIFICANTLY ELEVATED
+
+IMPRESSION:
+1. Stage 3 Chronic Kidney Disease (eGFR: 32 mL/min/1.73m²)
+2. Diabetic nephropathy with significant proteinuria
+3. Elevated BUN and creatinine consistent with decreased kidney function
+4. Recommend nephrology consultation
+5. Optimize diabetes and blood pressure control
+6. Consider ACE inhibitor or ARB therapy for kidney protection
+
+Dr. Patricia Davis, MD
+Nephrology Department

@@ -1,0 +1,58 @@
+PATIENT: David Wilson
+DOB: 08/30/1962
+DATE: 12/03/2023
+MRN: 11223344
+
+CHEST CT WITH CONTRAST
+
+CLINICAL HISTORY: 61-year-old male with chest pain, shortness of breath, and hemoptysis. History of smoking 30 pack-years. Recent weight loss.
+
+TECHNIQUE: Contrast-enhanced CT of the chest with multiplanar reconstructions.
+
+FINDINGS:
+
+LUNGS:
+- Right upper lobe: 3.2 cm spiculated mass with central necrosis
+- Left lower lobe: 1.8 cm nodule with ground-glass opacity
+- Bilateral lower lobe consolidation consistent with pneumonia
+- No pleural effusion
+- No pneumothorax
+
+MEDIASTINUM:
+- Enlarged right hilar lymph node (2.1 cm)
+- Enlarged subcarinal lymph node (1.8 cm)
+- No mediastinal shift
+- Normal thymus
+
+HEART:
+- Normal size and configuration
+- No pericardial effusion
+- Coronary arteries: Mild calcification
+
+GREAT VESSELS:
+- Aorta: Normal caliber
+- Pulmonary arteries: Normal
+- Superior vena cava: Normal
+
+BONES:
+- No evidence of rib or vertebral fractures
+- No lytic or blastic lesions
+
+LYMPH NODES:
+- Right hilar: Enlarged (2.1 cm)
+- Subcarinal: Enlarged (1.8 cm)
+- Left hilar: Normal size
+- Axillary: Normal size
+
+IMPRESSION:
+1. Right upper lobe mass (3.2 cm) highly suspicious for primary lung cancer
+2. Left lower lobe nodule (1.8 cm) concerning for metastatic disease
+3. Bilateral hilar and mediastinal lymphadenopathy consistent with metastatic spread
+4. Bilateral lower lobe pneumonia
+5. Recommend immediate oncology consultation
+6. Consider PET-CT for staging
+7. Bronchoscopy with biopsy recommended
+8. Urgent follow-up required
+
+Dr. Michael Chen, MD
+Radiology Department

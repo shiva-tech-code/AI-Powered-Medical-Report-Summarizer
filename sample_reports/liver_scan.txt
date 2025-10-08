@@ -1,0 +1,48 @@
+PATIENT: Jennifer Lee
+DOB: 11/08/1990
+DATE: 12/19/2023
+MRN: 11223344
+
+ABDOMINAL ULTRASOUND - LIVER EVALUATION
+
+CLINICAL HISTORY: 33-year-old female with elevated liver enzymes on routine blood work. Patient reports occasional right upper quadrant discomfort. No history of alcohol abuse or hepatitis.
+
+TECHNIQUE: Real-time ultrasound examination of the abdomen with particular attention to the liver, gallbladder, and biliary system.
+
+FINDINGS:
+
+LIVER:
+- Size: Mildly enlarged, measuring 18.5 cm in craniocaudal dimension (normal: <15 cm)
+- Echotexture: Heterogeneous with increased echogenicity consistent with hepatic steatosis
+- No focal masses or lesions identified
+- Portal vein: Patent with normal flow
+- Hepatic veins: Patent with normal triphasic flow pattern
+
+GALLBLADDER:
+- Wall thickness: Normal (<3 mm)
+- No gallstones or sludge identified
+- No pericholecystic fluid
+- Common bile duct: Not dilated (4 mm, normal: <6 mm)
+
+SPLEEN:
+- Size: Normal (11 cm)
+- Echotexture: Normal
+
+KIDNEYS:
+- Right kidney: Normal size and echotexture
+- Left kidney: Normal size and echotexture
+- No hydronephrosis or calculi
+
+PANCREAS:
+- Visualized portions appear normal
+- No pancreatic ductal dilatation
+
+IMPRESSION:
+1. Hepatic steatosis (fatty liver) with mild hepatomegaly
+2. No evidence of cirrhosis, portal hypertension, or focal liver lesions
+3. Normal gallbladder and biliary system
+4. Recommend lifestyle modifications including weight loss and dietary changes
+5. Consider follow-up imaging in 6 months if symptoms persist
+
+Dr. Amanda Rodriguez, MD
+Radiology Department

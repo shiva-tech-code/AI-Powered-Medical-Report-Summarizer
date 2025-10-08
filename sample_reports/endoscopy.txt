@@ -1,0 +1,51 @@
+PATIENT: Barbara Wilson
+DOB: 09/14/1970
+DATE: 12/07/2023
+MRN: 55667788
+
+UPPER ENDOSCOPY (EGD)
+
+CLINICAL HISTORY: 53-year-old female with chronic heartburn, regurgitation, and difficulty swallowing. Symptoms for 6 months despite PPI therapy.
+
+TECHNIQUE: Upper endoscopy performed under conscious sedation with biopsy sampling.
+
+FINDINGS:
+
+ESOPHAGUS:
+- Normal appearing mucosa
+- No evidence of esophagitis or Barrett's esophagus
+- No strictures or masses
+- Lower esophageal sphincter: Normal appearance
+- Biopsy: Normal squamous epithelium
+
+STOMACH:
+- Antrum: Mild erythema and edema consistent with mild gastritis
+- Body: Normal appearing mucosa
+- Fundus: Normal
+- No evidence of ulcers or masses
+- No evidence of Helicobacter pylori infection on rapid urease test
+- Biopsy: Mild chronic gastritis, no H. pylori
+
+DUODENUM:
+- First portion: Normal appearing mucosa
+- Second portion: Normal
+- No evidence of duodenitis or ulcers
+- Biopsy: Normal duodenal mucosa
+
+GASTROESOPHAGEAL REFLUX:
+- No evidence of significant reflux esophagitis
+- No hiatal hernia identified
+- Lower esophageal sphincter appears competent
+
+IMPRESSION:
+1. Mild chronic gastritis without H. pylori infection
+2. No evidence of GERD-related esophagitis
+3. No evidence of Barrett's esophagus
+4. No gastric or duodenal ulcers
+5. Normal esophageal mucosa
+6. Recommend continued PPI therapy for symptom management
+7. Consider lifestyle modifications (diet, weight loss, elevation of head of bed)
+8. Follow-up in 6 months if symptoms persist
+
+Dr. James Chen, MD
+Gastroenterology Department

@@ -1,0 +1,58 @@
+PATIENT: Susan Johnson
+DOB: 12/20/1975
+DATE: 12/05/2023
+MRN: 33445566
+
+SCREENING MAMMOGRAM
+
+CLINICAL HISTORY: 48-year-old female for routine breast cancer screening. No family history of breast cancer. Last mammogram 2 years ago was normal.
+
+TECHNIQUE: Bilateral screening mammography with digital breast tomosynthesis (DBT).
+
+FINDINGS:
+
+RIGHT BREAST:
+- Breast density: Heterogeneously dense (Category C)
+- No masses or architectural distortion
+- No suspicious calcifications
+- No skin or nipple changes
+- No axillary lymphadenopathy
+
+LEFT BREAST:
+- Breast density: Heterogeneously dense (Category C)
+- No masses or architectural distortion
+- No suspicious calcifications
+- No skin or nipple changes
+- No axillary lymphadenopathy
+
+COMPARISON:
+- Compared to previous mammogram from 12/2021
+- No significant interval changes
+- Stable breast density
+- No new findings
+
+BI-RADS ASSESSMENT:
+- Category 1: Negative
+- Recommendation: Routine screening mammography in 1 year
+
+ADDITIONAL RECOMMENDATIONS:
+- Due to heterogeneously dense breast tissue, consider supplemental screening with breast ultrasound or MRI
+- Continue monthly breast self-examination
+- Report any new breast symptoms promptly
+
+RISK ASSESSMENT:
+- Gail Model Risk: 1.2% (5-year risk)
+- No high-risk factors identified
+- Continue routine screening
+
+IMPRESSION:
+1. Negative bilateral screening mammogram
+2. Heterogeneously dense breast tissue bilaterally
+3. No evidence of breast cancer
+4. No significant changes from previous examination
+5. BI-RADS Category 1 - Negative
+6. Recommend routine screening mammography in 1 year
+7. Consider supplemental screening due to dense breast tissue
+
+Dr. Jennifer Kim, MD
+Radiology Department - Breast Imaging

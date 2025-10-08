@@ -1,0 +1,56 @@
+PATIENT: Emily Thompson
+DOB: 02/28/1995
+DATE: 12/12/2023
+MRN: 55667788
+
+COVID-19 TESTING & RESPIRATORY PANEL
+
+CLINICAL HISTORY: 28-year-old female with fever, cough, sore throat, and body aches for 4 days. Recent travel history.
+
+LABORATORY RESULTS:
+
+COVID-19 TESTING:
+- SARS-CoV-2 PCR: POSITIVE
+- SARS-CoV-2 Antigen: POSITIVE
+- COVID-19 Variant: Omicron BA.5
+
+RESPIRATORY VIRUS PANEL:
+- Influenza A: Negative
+- Influenza B: Negative
+- RSV: Negative
+- Adenovirus: Negative
+- Parainfluenza: Negative
+
+COMPLETE BLOOD COUNT:
+- White Blood Cell Count: 6.8 K/uL (Normal: 4.5-11.0) - NORMAL
+- Lymphocytes: 18% (Normal: 20-40%) - LOW
+- Neutrophils: 75% (Normal: 40-70%) - ELEVATED
+- Hemoglobin: 13.2 g/dL (Normal: 12.0-15.5) - NORMAL
+- Platelet Count: 285 K/uL (Normal: 150-450) - NORMAL
+
+INFLAMMATORY MARKERS:
+- C-Reactive Protein: 45 mg/L (Normal: <3.0) - ELEVATED
+- Procalcitonin: 0.8 ng/mL (Normal: <0.25) - ELEVATED
+- Ferritin: 180 ng/mL (Normal: 15-150) - ELEVATED
+- D-Dimer: 0.8 mg/L (Normal: <0.5) - ELEVATED
+
+CHEST X-RAY:
+- Bilateral lower lobe ground-glass opacities consistent with COVID-19 pneumonia
+- No evidence of pleural effusion or pneumothorax
+
+OXYGEN SATURATION:
+- Room Air: 94% (Normal: >95%) - MILD HYPOXIA
+- On 2L oxygen: 98% - IMPROVED
+
+IMPRESSION:
+1. COVID-19 infection confirmed by PCR and antigen testing
+2. Mild COVID-19 pneumonia with bilateral lower lobe involvement
+3. Mild hypoxia requiring supplemental oxygen
+4. Elevated inflammatory markers consistent with COVID-19 infection
+5. No evidence of bacterial co-infection
+6. Recommend isolation for 10 days from symptom onset
+7. Supportive care with oxygen therapy
+8. Monitor for signs of clinical deterioration
+
+Dr. Robert Kim, MD
+Infectious Diseases

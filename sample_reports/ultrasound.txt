@@ -1,0 +1,60 @@
+PATIENT: Michael Brown
+DOB: 01/15/1980
+DATE: 12/04/2023
+MRN: 77889900
+
+ABDOMINAL ULTRASOUND
+
+CLINICAL HISTORY: 43-year-old male with right upper quadrant pain and nausea. Recent onset of symptoms after fatty meal.
+
+TECHNIQUE: Real-time ultrasound examination of the abdomen with particular attention to the gallbladder and biliary system.
+
+FINDINGS:
+
+LIVER:
+- Size: Normal (15.2 cm craniocaudal dimension)
+- Echotexture: Normal homogeneous pattern
+- No focal masses or lesions
+- Portal vein: Patent with normal flow
+- Hepatic veins: Normal
+
+GALLBLADDER:
+- Wall thickness: 4.5 mm (Normal: <3 mm) - THICKENED
+- Multiple gallstones present, largest measuring 1.2 cm
+- Gallbladder sludge present
+- Positive sonographic Murphy's sign (tenderness over gallbladder)
+- No pericholecystic fluid
+- Common bile duct: 5 mm (Normal: <6 mm) - NORMAL
+
+SPLEEN:
+- Size: Normal (11.5 cm)
+- Echotexture: Normal
+- No focal lesions
+
+KIDNEYS:
+- Right kidney: Normal size and echotexture
+- Left kidney: Normal size and echotexture
+- No hydronephrosis or calculi
+
+PANCREAS:
+- Head: Normal appearance
+- Body: Normal appearance
+- Tail: Normal appearance
+- No pancreatic ductal dilatation
+
+AORTA:
+- Normal caliber (2.1 cm)
+- No evidence of aneurysm
+
+IMPRESSION:
+1. Acute cholecystitis with gallstones
+2. Gallbladder wall thickening and positive Murphy's sign
+3. Multiple gallstones with largest measuring 1.2 cm
+4. No evidence of common bile duct obstruction
+5. Normal liver, spleen, kidneys, and pancreas
+6. Recommend surgical consultation for cholecystectomy
+7. Consider antibiotics if signs of infection persist
+8. Pain management and dietary modifications
+
+Dr. Sarah Rodriguez, MD
+Radiology Department

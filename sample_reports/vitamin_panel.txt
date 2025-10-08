@@ -1,0 +1,61 @@
+PATIENT: Christopher Lee
+DOB: 10/05/1985
+DATE: 12/01/2023
+MRN: 99887766
+
+COMPREHENSIVE VITAMIN PANEL
+
+CLINICAL HISTORY: 38-year-old male with fatigue, muscle weakness, and poor wound healing. Vegetarian diet for 5 years. Recent weight loss.
+
+LABORATORY RESULTS:
+
+VITAMIN B COMPLEX:
+- Vitamin B1 (Thiamine): 45 ng/mL (Normal: 25-75) - NORMAL
+- Vitamin B2 (Riboflavin): 1.2 μg/mL (Normal: 0.5-2.0) - NORMAL
+- Vitamin B3 (Niacin): 8.5 mg/dL (Normal: 3.0-10.0) - NORMAL
+- Vitamin B6 (Pyridoxine): 15 ng/mL (Normal: 5-50) - NORMAL
+- Vitamin B12: 180 pg/mL (Normal: 200-900) - LOW
+- Folate: 4.2 ng/mL (Normal: 3.0-17.0) - NORMAL
+- Homocysteine: 18.5 μmol/L (Normal: <15) - ELEVATED
+
+VITAMIN D:
+- 25-Hydroxyvitamin D: 18 ng/mL (Normal: 30-100) - LOW
+- 1,25-Dihydroxyvitamin D: 25 pg/mL (Normal: 20-60) - NORMAL
+
+VITAMIN E:
+- Alpha-tocopherol: 8.5 mg/L (Normal: 5.0-20.0) - NORMAL
+
+VITAMIN K:
+- Vitamin K1: 0.8 ng/mL (Normal: 0.1-2.2) - NORMAL
+
+VITAMIN C:
+- Ascorbic acid: 0.3 mg/dL (Normal: 0.6-2.0) - LOW
+
+FAT-SOLUBLE VITAMINS:
+- Vitamin A (Retinol): 28 μg/dL (Normal: 30-95) - LOW
+- Beta-carotene: 15 μg/dL (Normal: 10-85) - NORMAL
+
+MINERALS:
+- Iron: 45 μg/dL (Normal: 60-170) - LOW
+- Ferritin: 12 ng/mL (Normal: 15-200) - LOW
+- Total Iron Binding Capacity: 450 μg/dL (Normal: 250-450) - NORMAL
+- Transferrin Saturation: 10% (Normal: 20-50) - LOW
+- Zinc: 65 μg/dL (Normal: 70-120) - LOW
+- Magnesium: 1.6 mg/dL (Normal: 1.7-2.2) - LOW
+
+IMPRESSION:
+1. Vitamin B12 deficiency (180 pg/mL) - likely due to vegetarian diet
+2. Vitamin D deficiency (18 ng/mL) - insufficient sun exposure
+3. Vitamin C deficiency (0.3 mg/dL) - inadequate dietary intake
+4. Vitamin A deficiency (28 μg/dL) - dietary insufficiency
+5. Iron deficiency anemia (low iron, ferritin, and transferrin saturation)
+6. Zinc and magnesium deficiencies
+7. Elevated homocysteine due to B12 deficiency
+8. Recommend B12 injections or high-dose oral supplementation
+9. Vitamin D3 supplementation (2000-4000 IU daily)
+10. Multivitamin with iron supplementation
+11. Dietary counseling for vegetarian nutrition
+12. Follow-up testing in 3 months
+
+Dr. Amanda Foster, MD
+Internal Medicine/Nutrition

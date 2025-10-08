@@ -1,0 +1,59 @@
+PATIENT: David Wilson
+DOB: 05/14/1965
+DATE: 12/17/2023
+MRN: 55667788
+
+TRANSTHORACIC ECHOCARDIOGRAM
+
+CLINICAL HISTORY: 58-year-old male with chest pain and shortness of breath. History of hypertension and smoking. Family history of coronary artery disease.
+
+TECHNIQUE: Complete 2D, M-mode, and Doppler echocardiographic examination performed.
+
+FINDINGS:
+
+LEFT VENTRICLE:
+- Size: Normal (LVEDD: 5.2 cm, normal: <5.7 cm)
+- Wall thickness: Mildly increased (IVS: 1.3 cm, LVPW: 1.2 cm, normal: <1.2 cm)
+- Systolic function: Normal (EF: 60%, normal: >55%)
+- Regional wall motion: Normal
+- No evidence of wall motion abnormalities
+
+RIGHT VENTRICLE:
+- Size: Normal
+- Function: Normal
+- No evidence of right ventricular dysfunction
+
+LEFT ATRIUM:
+- Size: Mildly enlarged (LA volume index: 35 mL/m², normal: <34 mL/m²)
+- No thrombus identified
+
+RIGHT ATRIUM:
+- Size: Normal
+
+VALVES:
+- Mitral valve: Mild mitral regurgitation, no stenosis
+- Aortic valve: Mild aortic sclerosis, no stenosis or regurgitation
+- Tricuspid valve: Trace tricuspid regurgitation
+- Pulmonic valve: Normal
+
+PERICARDIUM:
+- No pericardial effusion
+- No evidence of pericardial constriction
+
+DOPPLER FINDINGS:
+- E/A ratio: 0.8 (normal: >1.0) - suggestive of mild diastolic dysfunction
+- Deceleration time: 220 ms (normal: 160-240 ms)
+- No evidence of elevated pulmonary pressures
+
+IMPRESSION:
+1. Normal left ventricular systolic function (EF: 60%)
+2. Mild left ventricular hypertrophy consistent with hypertension
+3. Mild left atrial enlargement
+4. Mild mitral regurgitation
+5. Mild aortic valve sclerosis
+6. Mild diastolic dysfunction
+7. No evidence of significant valvular disease or wall motion abnormalities
+8. Recommend blood pressure optimization and cardiovascular risk factor modification
+
+Dr. James Anderson, MD
+Cardiology Department

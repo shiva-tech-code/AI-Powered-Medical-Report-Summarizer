@@ -1,0 +1,55 @@
+PATIENT: Maria Garcia
+DOB: 09/25/1972
+DATE: 12/16/2023
+MRN: 99887766
+
+BRAIN MRI WITH AND WITHOUT CONTRAST
+
+CLINICAL HISTORY: 51-year-old female with headaches, dizziness, and memory difficulties. Patient reports progressive cognitive decline over 6 months.
+
+TECHNIQUE: Multiplanar T1-weighted, T2-weighted, FLAIR, and post-contrast T1-weighted images obtained through the brain.
+
+FINDINGS:
+
+PARENCHYMA:
+- No acute intracranial hemorrhage
+- No evidence of acute infarction
+- Mild generalized cerebral atrophy for age
+- No focal mass lesions or enhancing lesions
+- No evidence of demyelinating disease
+
+WHITE MATTER:
+- Scattered small foci of T2/FLAIR hyperintensity in the periventricular and subcortical white matter, consistent with chronic small vessel ischemic changes
+- No evidence of acute white matter disease
+
+VENTRICULAR SYSTEM:
+- Mild enlargement of the lateral ventricles consistent with mild hydrocephalus ex vacuo
+- No evidence of obstructive hydrocephalus
+- Fourth ventricle normal in size and position
+
+CEREBELLUM:
+- Normal size and signal characteristics
+- No focal lesions
+
+BRAINSTEM:
+- Normal appearance
+- No focal lesions or signal abnormalities
+
+SELLA TURCICA:
+- Pituitary gland normal in size and signal characteristics
+- No pituitary adenoma
+
+CEREBRAL VESSELS:
+- No evidence of large vessel occlusion or stenosis
+- Circle of Willis appears intact
+
+IMPRESSION:
+1. Mild generalized cerebral atrophy for age
+2. Chronic small vessel ischemic changes in the white matter
+3. Mild hydrocephalus ex vacuo (ventricular enlargement due to brain tissue loss)
+4. No evidence of acute intracranial pathology, mass lesions, or demyelinating disease
+5. Findings are consistent with age-related changes and chronic small vessel disease
+6. Recommend neurology consultation for cognitive evaluation
+
+Dr. Sarah Kim, MD
+Neuroradiology Department

@@ -1,0 +1,40 @@
+PATIENT: Linda Johnson
+DOB: 04/18/1985
+DATE: 12/14/2023
+MRN: 77889900
+
+THYROID FUNCTION PANEL
+
+CLINICAL HISTORY: 38-year-old female with fatigue, weight gain, cold intolerance, and hair loss. Family history of thyroid disease.
+
+LABORATORY RESULTS:
+
+THYROID FUNCTION TESTS:
+- TSH: 8.5 mIU/L (Normal: 0.4-4.0) - ELEVATED
+- Free T4: 0.6 ng/dL (Normal: 0.8-1.8) - LOW
+- Free T3: 2.1 pg/mL (Normal: 2.3-4.2) - LOW
+- Total T4: 4.2 μg/dL (Normal: 5.1-14.1) - LOW
+- Total T3: 85 ng/dL (Normal: 80-200) - NORMAL
+
+THYROID ANTIBODIES:
+- Anti-TPO Antibodies: 450 IU/mL (Normal: <35) - ELEVATED
+- Anti-Thyroglobulin Antibodies: 280 IU/mL (Normal: <20) - ELEVATED
+- TSH Receptor Antibodies: <1.0 IU/L (Normal: <1.75) - NORMAL
+
+THYROID ULTRASOUND FINDINGS:
+- Thyroid size: Normal
+- Echotexture: Heterogeneous with multiple small hypoechoic nodules
+- Largest nodule: 0.8 cm in right lobe
+- No evidence of cervical lymphadenopathy
+- Vascularity: Normal
+
+IMPRESSION:
+1. Primary hypothyroidism (elevated TSH, low free T4 and free T3)
+2. Hashimoto's thyroiditis (elevated anti-TPO and anti-thyroglobulin antibodies)
+3. Multiple small thyroid nodules, likely benign
+4. Recommend levothyroxine therapy
+5. Follow-up TSH in 6-8 weeks after starting medication
+6. Annual thyroid ultrasound for nodule monitoring
+
+Dr. Michael Chen, MD
+Endocrinology Department

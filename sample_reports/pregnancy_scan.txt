@@ -1,0 +1,72 @@
+PATIENT: Jessica Williams
+DOB: 06/15/1992
+DATE: 12/11/2023
+MRN: 99887766
+
+OBSTETRIC ULTRASOUND - 20 WEEK ANATOMY SCAN
+
+CLINICAL HISTORY: 31-year-old female, G2P1, at 20 weeks 3 days gestation. Routine anatomy scan.
+
+TECHNIQUE: Transabdominal ultrasound examination of the gravid uterus.
+
+FINDINGS:
+
+FETAL MEASUREMENTS:
+- Biparietal Diameter (BPD): 4.8 cm (20 weeks 2 days)
+- Head Circumference (HC): 17.2 cm (20 weeks 1 day)
+- Abdominal Circumference (AC): 15.8 cm (20 weeks 4 days)
+- Femur Length (FL): 3.2 cm (20 weeks 3 days)
+- Estimated Fetal Weight: 350 grams (50th percentile)
+
+FETAL ANATOMY:
+
+HEAD AND BRAIN:
+- Normal head shape and size
+- Intact calvarium
+- Normal brain anatomy with appropriate development
+- No evidence of ventriculomegaly or other abnormalities
+
+SPINE:
+- Intact spine with normal alignment
+- No evidence of spina bifida or other neural tube defects
+
+CHEST:
+- Normal heart rate: 145 bpm
+- Four-chamber heart view normal
+- Normal lung fields
+- No evidence of pleural effusion
+
+ABDOMEN:
+- Normal stomach bubble
+- Normal liver and gallbladder
+- Normal kidneys and bladder
+- Normal bowel pattern
+
+EXTREMITIES:
+- All four limbs present and normal
+- Normal hand and foot development
+- Appropriate fetal movement
+
+PLACENTA:
+- Anterior placenta
+- Normal thickness and appearance
+- No evidence of previa
+
+AMNIOTIC FLUID:
+- Normal amniotic fluid volume
+- Amniotic Fluid Index: 12.5 cm (Normal: 8-18 cm)
+
+CERVICAL LENGTH:
+- 3.8 cm (Normal: >2.5 cm)
+
+IMPRESSION:
+1. Single intrauterine pregnancy at 20 weeks 3 days gestation
+2. Normal fetal anatomy and growth
+3. Appropriate fetal weight for gestational age
+4. Normal placental location and amniotic fluid volume
+5. Normal cervical length
+6. No evidence of fetal anomalies
+7. Recommend routine prenatal care and follow-up ultrasound at 32 weeks
+
+Dr. Amanda Foster, MD
+Maternal-Fetal Medicine
