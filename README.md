@@ -284,6 +284,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Open source community** for various libraries and tools
 
 ## 📞 Support
+SHIVAKUMAR : shivakumar961123@gmail.com
+
 
 ### Getting Help
 - Check the troubleshooting section above
